@@ -1,0 +1,4 @@
+#Thu Jan 21 22:14:50 CST 2021
+base.0=C\:\\Users\\mishr\\AndroidStudioProjects\\SimpleCounter4\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

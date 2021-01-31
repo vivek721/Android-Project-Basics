@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.internet
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:7:22-64
+queries
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:9:5-14:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:10:9-13:18
+action#android.intent.action.VIEW
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:11:13-65
+	android:name
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:11:21-62
+data
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:12:13-44
+	android:scheme
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:12:19-41
+application
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:16:5-33:19
+	android:label
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:17:9-36
+activity#com.ugobuy.simplecounter4.SimpleCounterActivity4
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:21:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:22:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.ugobuy.simplecounter4.StateListActivity
+ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:29:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:30:13-49
+	android:launchMode
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:31:13-42
+	android:name
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:29:19-51
+uses-sdk
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml

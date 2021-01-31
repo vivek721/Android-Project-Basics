@@ -1,0 +1,72 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ugobuy.simplecounter4.debug"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.internet" />
+11-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:7:5-66
+11-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:7:22-64
+12
+13    <queries>
+13-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:9:5-14:15
+14        <intent>
+14-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:10:9-13:18
+15            <action android:name="android.intent.action.VIEW" />
+15-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:11:13-65
+15-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:11:21-62
+16
+17            <data android:scheme="https" />
+17-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:12:13-44
+17-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:12:19-41
+18        </intent>
+19    </queries>
+20
+21    <application
+21-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:16:5-33:19
+22        android:allowBackup="false"
+22-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:17:9-36
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@drawable/ic_launcher"
+25-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:18:9-45
+26        android:label="@string/app_name"
+26-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:19:9-41
+27        android:testOnly="true" >
+28        <activity
+28-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:20:9-28:20
+29            android:name="com.ugobuy.simplecounter4.SimpleCounterActivity4"
+29-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:22:13-51
+30            android:label="@string/app_name"
+30-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:21:13-45
+31            android:windowSoftInputMode="stateAlwaysHidden" >
+31-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:23:13-60
+32            <intent-filter>
+32-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:24:13-27:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:25:17-69
+33-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:25:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:26:17-77
+35-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:26:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:29:9-32:20
+39            android:name="com.ugobuy.simplecounter4.StateListActivity"
+39-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:29:19-51
+40            android:launchMode="standard"
+40-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:31:13-42
+41            android:screenOrientation="portrait" >
+41-->C:\Users\mishr\AndroidStudioProjects\SimpleCounter4\app\src\main\AndroidManifest.xml:30:13-49
+42        </activity>
+43    </application>
+44
+45</manifest>
